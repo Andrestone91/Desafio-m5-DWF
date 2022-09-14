@@ -2,4 +2,4 @@
 
 piedra papel ó tijera
 
-https://andrestone91.github.io/Desafio-m5-DWF/
+https://andrestone91.github.io/desafio-m5
